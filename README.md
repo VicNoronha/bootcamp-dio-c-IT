@@ -2,7 +2,7 @@
 Este repositório documenta minha participação no Bootcamp CI&amp;T – Backend com Java &amp; AWS promovido pela DIO, uma imersão prática com conteúdo alinhado às demandas do mercado de tecnologia.
 
 
-#💡 O Bootcamp oferece uma trilha de aprendizagem estruturada para:
+ ## 💡O Bootcamp oferece uma trilha de aprendizagem estruturada para : 
 
 Fortalecer os fundamentos da linguagem Java
 
@@ -23,7 +23,7 @@ DIO
 
 O foco principal deste bootcamp é prepará-lo para enfrentar desafios reais de backend e infraestrutura em ambiente profissional.
 
-##🛠️ Módulos e Conteúdos
+ ## 🛠️Módulos e Conteúdos
 
 Durante o bootcamp, o conteúdo foi dividido em módulos que permitiram uma evolução gradual e prática:
 
@@ -44,7 +44,7 @@ Integração com Bancos de Dados (SQL e NoSQL)
 Introdução à Nuvem com AWS
 
 
-##🎯 O que construí
+## 🎯O que construí
 
 Durante a trilha, desenvolvi projetos que consolidam o conhecimento técnico de cada módulo. Entre eles:
 

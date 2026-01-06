@@ -3,7 +3,6 @@ Este repositório documenta minha participação no Bootcamp CI&amp;T – Backen
 
 
  ## 🛠️Conteúdo e Módulos:
-
 Durante o bootcamp, o conteúdo foi dividido em módulos que permitiram uma evolução gradual e prática:
 
 Princípios de Desenvolvimento de Aplicações
@@ -24,7 +23,6 @@ Introdução à Nuvem com AWS
 
 
 ## 🎯O que eu construi:
-
 Durante a trilha, desenvolvi projetos que consolidam o conhecimento técnico de cada módulo. Entre eles:
 
 APIs RESTful em Spring Boot

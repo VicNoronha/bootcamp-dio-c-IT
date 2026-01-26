@@ -1,4 +1,4 @@
-package CollectionFrameworkAPI.List.Exercicios;
+package CatalogoDeLivros;
 
 public class Livro {
 

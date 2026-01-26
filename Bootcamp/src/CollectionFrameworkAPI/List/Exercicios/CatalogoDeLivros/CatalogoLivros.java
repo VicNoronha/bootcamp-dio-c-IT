@@ -1,4 +1,4 @@
-package CollectionFrameworkAPI.List.Exercicios;
+package CatalogoDeLivros;
 
 import java.util.ArrayList;
 import java.util.List;

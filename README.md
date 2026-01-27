@@ -22,7 +22,7 @@ Integração com Bancos de Dados (SQL e NoSQL)
 Introdução à Nuvem com AWS
 
 
-## 🎯O que eu construi:
+## 🎯Desafios de código:
 Durante a trilha, desenvolvi projetos que consolidam o conhecimento técnico de cada módulo. Entre eles:
 
 APIs RESTful em Spring Boot

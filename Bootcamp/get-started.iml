@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/CollectionFrameworkAPI" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/CollectionFrameworkAPI/List/Exercicios" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/CollectionFrameworkAPI/List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/CollectionFrameworkAPI/Set" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

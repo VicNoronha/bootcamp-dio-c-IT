@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59727c69-d81b-4b21-950a-cb4036e35f1f" name="Changes" comment="Exercicios sobre List">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootcamp/src/CollectionFrameworkAPI/Map/AgendaContatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bootcamp/src/CollectionFrameworkAPI/Map/AgendaContatos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootcamp/src/CollectionFrameworkAPI/Map/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bootcamp/src/CollectionFrameworkAPI/Map/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootcamp/src/CollectionFrameworkAPI/Map/Pesquisa/EstoqueProdutos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bootcamp/src/CollectionFrameworkAPI/Map/Pesquisa/EstoqueProdutos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootcamp/src/CollectionFrameworkAPI/Map/Pesquisa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bootcamp/src/CollectionFrameworkAPI/Map/Pesquisa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootcamp/src/CollectionFrameworkAPI/Map/Pesquisa/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bootcamp/src/CollectionFrameworkAPI/Map/Pesquisa/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

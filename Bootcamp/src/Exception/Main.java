@@ -1,4 +1,4 @@
-package br.com.dio.dao.model;
+package Exception;
 
 import java.time.LocalDate;
 import java.time.OffsetDateTime;

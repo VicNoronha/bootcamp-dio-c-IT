@@ -1,4 +1,4 @@
-package br.com.dio.dao.model.exception;
+package Exception.exception;
 
 public class UserNotFoundException extends RuntimeException {
 

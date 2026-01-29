@@ -1,6 +1,6 @@
-package br.com.dio.dao.model;
+package Exception;
 
-import br.com.dio.dao.model.exception.UserNotFoundException;
+import Exception.exception.UserNotFoundException;
 
 import java.util.ArrayList;
 import java.util.List;

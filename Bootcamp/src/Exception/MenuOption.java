@@ -1,4 +1,4 @@
-package br.com.dio.dao.model;
+package Exception;
 
 public enum MenuOption {
     SAVE,
